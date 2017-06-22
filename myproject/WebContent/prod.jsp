@@ -7,12 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	This is Index page !
-	
-	> modify 4
-	> modify 5
-	
-	> modify 8
-	> modify 9
+	product
 </body>
 </html>
