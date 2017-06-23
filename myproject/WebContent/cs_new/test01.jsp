@@ -7,15 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	This is Index page !
-	
-	> modify 4
-	> modify 5
-	
-	> modify 8
-	> modify 9
-	
-	
-	>> cs_new > test01 Ãß°¡
+	test01
 </body>
 </html>
